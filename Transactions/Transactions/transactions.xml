@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<transactions>
+  <transaction>
+    <item>Salary</item>
+    <price>1670</price>
+  </transaction>
+  <transaction>
+    <item>Car</item>
+    <price>60</price>
+  </transaction>
+  <transaction>
+    <item>Clothing</item>
+    <price>320</price>
+  </transaction>
+  <transaction>
+    <item>Food</item>
+    <price>85</price>
+  </transaction>
+  <transaction>
+    <item>Leisure</item>
+    <price>35</price>
+  </transaction>
+  <transaction>
+    <item>Living</item>
+    <price>560</price>
+  </transaction>
+</transactions>

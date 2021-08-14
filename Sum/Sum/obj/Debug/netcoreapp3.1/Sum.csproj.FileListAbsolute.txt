@@ -1,0 +1,13 @@
+C:\Users\intel\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+C:\Users\intel\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+C:\Users\intel\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+C:\Users\intel\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+C:\Users\intel\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+C:\Users\intel\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\intel\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+C:\Users\intel\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+C:\Users\intel\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\intel\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache

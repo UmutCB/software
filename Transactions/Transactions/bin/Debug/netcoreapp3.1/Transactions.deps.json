@@ -1,0 +1,257 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Transactions/1.0.0": {
+        "dependencies": {
+          "Gu.Wpf.Localization": "6.7.0",
+          "Scar.Common.WPF.Localization": "1.0.7027.26012",
+          "WPFLocalizeExtension": "3.8.0"
+        },
+        "runtime": {
+          "Transactions.dll": {}
+        },
+        "resources": {
+          "en/Transactions.resources.dll": {
+            "locale": "en"
+          },
+          "tr-TR/Transactions.resources.dll": {
+            "locale": "tr-TR"
+          }
+        }
+      },
+      "Gu.Localization/6.7.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Gu.Localization.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          }
+        }
+      },
+      "Gu.Wpf.Localization/6.7.0": {
+        "dependencies": {
+          "Gu.Localization": "6.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Gu.Wpf.Localization.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2018.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2018.3.0.0",
+            "fileVersion": "2018.3.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.Win32.Registry/4.7.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "Microsoft.Win32.SystemEvents/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0"
+        }
+      },
+      "Scar.Common.Localization/1.0.7027.23438": {
+        "runtime": {
+          "lib/netstandard2.0/Scar.Common.Localization.dll": {
+            "assemblyVersion": "1.0.7027.23438",
+            "fileVersion": "1.0.7027.23438"
+          }
+        }
+      },
+      "Scar.Common.WPF.Localization/1.0.7027.26012": {
+        "dependencies": {
+          "JetBrains.Annotations": "2018.3.0",
+          "Scar.Common.Localization": "1.0.7027.23438",
+          "WPFLocalizeExtension": "3.8.0"
+        },
+        "runtime": {
+          "lib/net47/Scar.Common.WPF.Localization.dll": {
+            "assemblyVersion": "1.0.7027.26012",
+            "fileVersion": "1.0.7027.26012"
+          }
+        }
+      },
+      "System.CodeDom/4.7.0": {},
+      "System.Drawing.Common/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.SystemEvents": "4.7.0"
+        }
+      },
+      "System.Management/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.Registry": "4.7.0",
+          "System.CodeDom": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Management.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "System.Security.Principal.Windows/4.7.0": {},
+      "WPFLocalizeExtension/3.8.0": {
+        "dependencies": {
+          "System.Drawing.Common": "4.7.0",
+          "System.Management": "4.7.0",
+          "XAMLMarkupExtensions": "2.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/WPFLocalizeExtension.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.0"
+          }
+        }
+      },
+      "XAMLMarkupExtensions/2.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/XAMLMarkupExtensions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transactions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gu.Localization/6.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vLQCsanHnHDQJPWqsPRk01PC5lTp5HMIOggIkZ7Bep0Djt516lDcIElj9jSRdHnZ5+2UUFbf2Fn7K4o9dlSHlw==",
+      "path": "gu.localization/6.7.0",
+      "hashPath": "gu.localization.6.7.0.nupkg.sha512"
+    },
+    "Gu.Wpf.Localization/6.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jCW+Z0x8JeV92P4ThL7G7oM5pBiDXDofkArzAK0PrEeIQRICGf6UQGOFV2F11t/lC6ULiJvJ1MIDy9A6rMa8bQ==",
+      "path": "gu.wpf.localization/6.7.0",
+      "hashPath": "gu.wpf.localization.6.7.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2018.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hbt5edAd7OfnYwsRayYguECzIJ4FUWDGjeEHsmxIgEpBbqZglhpxqjPWnWN/pEQM1HFGojMrR9dsywmC8pPTeQ==",
+      "path": "jetbrains.annotations/2018.3.0",
+      "hashPath": "jetbrains.annotations.2018.3.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
+      "path": "microsoft.win32.registry/4.7.0",
+      "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtVirZr++rq+XCDITMUdnETD59XoeMxSpLRIII7JRI6Yj0LEDiO1pPn0ktlnIj12Ix8bfvQqQDMMIF9wC98oCA==",
+      "path": "microsoft.win32.systemevents/4.7.0",
+      "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
+    },
+    "Scar.Common.Localization/1.0.7027.23438": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0zpumwlUOcDvVmZD4rt+KydzuO83MvQl1VY5NJtiSppV12pxxWZrz7SWCIf1XmD9Fgl8POl8HEJmzzdxC5ZxHA==",
+      "path": "scar.common.localization/1.0.7027.23438",
+      "hashPath": "scar.common.localization.1.0.7027.23438.nupkg.sha512"
+    },
+    "Scar.Common.WPF.Localization/1.0.7027.26012": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TKa0UW9QPI1wtNJuW0CRyzXfgNaGDEvDOduiRe5QKEvX77aV4imifWrOeFn/0zlQMNIbBSW3nh8LEx5agHaAkQ==",
+      "path": "scar.common.wpf.localization/1.0.7027.26012",
+      "hashPath": "scar.common.wpf.localization.1.0.7027.26012.nupkg.sha512"
+    },
+    "System.CodeDom/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hs9pw/kmvH3lXaZ1LFKj3pLQsiGfj2xo3sxSzwiLlRL6UcMZUTeCfoJ9Udalvn3yq5dLlPEZzYegrTQ1/LhPOQ==",
+      "path": "system.codedom/4.7.0",
+      "hashPath": "system.codedom.4.7.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v+XbyYHaZjDfn0ENmJEV1VYLgGgCTx1gnfOBcppowbpOAriglYgGCvFCPr2EEZyBvXlpxbEsTwkOlInl107ahA==",
+      "path": "system.drawing.common/4.7.0",
+      "hashPath": "system.drawing.common.4.7.0.nupkg.sha512"
+    },
+    "System.Management/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IY+uuGhgzWiCg21i8IvQeY/Z7m1tX8VuPF+ludfn7iTCaccTtJo5HkjZbBEL8kbBubKhAKKtNXr7uMtmAc28Pw==",
+      "path": "system.management/4.7.0",
+      "hashPath": "system.management.4.7.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JECvTt5aFF3WT3gHpfofL2MNNP6v84sxtXxpqhLBCcDRzqsPBmHhQ6shv4DwwN2tRlzsUxtb3G9M3763rbXKDg==",
+      "path": "system.security.accesscontrol/4.7.0",
+      "hashPath": "system.security.accesscontrol.4.7.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "WPFLocalizeExtension/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WJ6ciJOHVp+WcRwjInIZe6z8eKeeNahGBRNxWL/DlDdiGcYuwd52shb+mlLf7QLjugWJG14T5ehmrPcOWZzpkw==",
+      "path": "wpflocalizeextension/3.8.0",
+      "hashPath": "wpflocalizeextension.3.8.0.nupkg.sha512"
+    },
+    "XAMLMarkupExtensions/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lf2OKHcoLWEmLy4WxI4D6IrAv5xCwGLMnrjTQWGPaxUYMdd9/oA4HaE7sX2QIZefruth+sJi0+nzg4dDEILPOQ==",
+      "path": "xamlmarkupextensions/2.0.0",
+      "hashPath": "xamlmarkupextensions.2.0.0.nupkg.sha512"
+    }
+  }
+}

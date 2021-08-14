@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUNaDb8Ti2L148knKhTkTKt5r8EttLL+wmoI+q/VFaaC53ez61Agt1NSi70lt8z4tJRJwP3Qh8FCHqHK1HJMjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intel\\source\\repos\\Transactions\\Transactions\\Transactions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intel\\.nuget\\packages\\gu.localization\\6.7.0\\gu.localization.6.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\gu.wpf.localization\\6.7.0\\gu.wpf.localization.6.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\jetbrains.annotations\\2018.3.0\\jetbrains.annotations.2018.3.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\scar.common.localization\\1.0.7027.23438\\scar.common.localization.1.0.7027.23438.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\scar.common.wpf.localization\\1.0.7027.26012\\scar.common.wpf.localization.1.0.7027.26012.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\wpflocalizeextension\\3.8.0\\wpflocalizeextension.3.8.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\xamlmarkupextensions\\2.0.0\\xamlmarkupextensions.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Scar.Common.WPF.Localization 1.0.7027.26012' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Scar.Common.WPF.Localization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

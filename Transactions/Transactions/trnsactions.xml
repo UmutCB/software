@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<transactions>
+  <transaction>
+    <item>Salary</item>
+    <price>1670</price>
+  </transaction>
+  <transaction>
+    <item>Car</item>
+    <price>60</price>
+  </transaction>
+
+</transactions>
